@@ -1,0 +1,46 @@
+%==========================================================================
+%=== New run time: 16:20:08.522264
+%=== Dataset: datasets/test.fa 
+%=== Randomseed: '8b4Dxf5IDkV9A7zSOawyeNJ5GR9npeXZbcYofSv355HmqAXvDAD12wsxCpuyb5la'
+%=== Limittrainingset: False
+%=== Limit: 5
+%=== number added per iteration: 5000
+%=== random selection: False
+%=== add as correct substrate: False
+%=== seql threshold: -1000.000000
+%=== Unknown: limit intial trainingset: True
+%=== Unknown: include known sequences in selftraingset: True
+%=== Unknown: Max iterations: 20
+%=== Standart deviation last iteration: 2.866264
+%=== Referencescore standart deviation: 2.373586
+%=== Referencescore: 91.104156
+a        & 100.0   & 100.0\\
+aad      & 100.0   & 100.0\\
+beta-ala & 0.0     & 0.0\\
+bht      & 100.0   & 100.0\\
+c        & 100.0   & 100.0\\
+d        & 100.0   & 100.0\\
+dab      & 100.0   & 100.0\\
+dhb      & 100.0   & 100.0\\
+dhpg     & 100.0   & 100.0\\
+dht      & 0.0     & 0.0\\
+e        & 100.0   & 100.0\\
+f        & 100.0   & 100.0\\
+g        & 100.0   & 100.0\\
+horn     & 0.0     & 0.0\\
+hpg      & 100.0   & 100.0\\
+hyv-d    & 0.0     & 0.0\\
+i        & 100.0   & 100.0\\
+k        & 100.0   & 100.0\\
+l        & 100.0   & 100.0\\
+n        & 100.0   & 100.0\\
+orn      & 100.0   & 100.0\\
+p        & 100.0   & 100.0\\
+pip      & 100.0   & 100.0\\
+q        & 100.0   & 100.0\\
+r        & 100.0   & 100.0\\
+s        & 100.0   & 100.0\\
+t        & 100.0   & 100.0\\
+v        & 100.0   & 100.0\\
+w        & 100.0   & 100.0\\
+y        & 100.0   & 100.0\\

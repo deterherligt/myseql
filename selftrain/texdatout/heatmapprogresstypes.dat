@@ -1,0 +1,77 @@
+%==========================================================================
+%=== New run time: 16:20:08.525073
+%=== Dataset: datasets/test.fa 
+%=== Randomseed: '8b4Dxf5IDkV9A7zSOawyeNJ5GR9npeXZbcYofSv355HmqAXvDAD12wsxCpuyb5la'
+%=== Limittrainingset: False
+%=== Limit: 5
+%=== number added per iteration: 5000
+%=== random selection: False
+%=== add as correct substrate: False
+%=== seql threshold: -1000.000000
+%=== Unknown: limit intial trainingset: True
+%=== Unknown: include known sequences in selftraingset: True
+%=== Unknown: Max iterations: 20
+%=== Standart deviation last iteration: 2.866264
+%=== Referencescore standart deviation: 2.373586
+%=== Referencescore: 91.104156
+ a        &  44.14    \\[-2ex]
+          & -100.0    \\[-3ex]
+ aad      &  4.327    \\[-2ex]
+          & -11.0     \\[-3ex]
+ beta-ala &  0.236    \\[-2ex]
+          & -0.0      \\[-3ex]
+ bht      &  0.6294   \\[-2ex]
+          & -0.0      \\[-3ex]
+ c        &  2.439    \\[-2ex]
+          & -6.0      \\[-3ex]
+ d        &  1.338    \\[-2ex]
+          & -7.0      \\[-3ex]
+ dab      &  0.7868   \\[-2ex]
+          & -1.0      \\[-3ex]
+ dhb      &  19.04    \\[-2ex]
+          & -32.0     \\[-3ex]
+ dhpg     &  0.7081   \\[-2ex]
+          & -0.0      \\[-3ex]
+ dht      &  0.3147   \\[-2ex]
+          & -0.0      \\[-3ex]
+ e        &  0.6294   \\[-2ex]
+          & -0.0      \\[-3ex]
+ f        &  1.416    \\[-2ex]
+          & -11.0     \\[-3ex]
+ g        &  2.124    \\[-2ex]
+          & -20.0     \\[-3ex]
+ horn     &  0.1574   \\[-2ex]
+          & -0.0      \\[-3ex]
+ hpg      &  1.495    \\[-2ex]
+          & -2.0      \\[-3ex]
+ hyv-d    &  0.3147   \\[-2ex]
+          & -0.0      \\[-3ex]
+ i        &  1.023    \\[-2ex]
+          & -6.0      \\[-3ex]
+ k        &  0.5507   \\[-2ex]
+          & -2.0      \\[-3ex]
+ l        &  2.911    \\[-2ex]
+          & -34.0     \\[-3ex]
+ n        &  1.495    \\[-2ex]
+          & -9.0      \\[-3ex]
+ orn      &  0.6294   \\[-2ex]
+          & -1.0      \\[-3ex]
+ p        &  1.574    \\[-2ex]
+          & -26.0     \\[-3ex]
+ pip      &  0.6294   \\[-2ex]
+          & -3.0      \\[-3ex]
+ q        &  0.4721   \\[-2ex]
+          & -2.0      \\[-3ex]
+ r        &  0.4721   \\[-2ex]
+          & -0.0      \\[-3ex]
+ s        &  2.282    \\[-2ex]
+          & -4.0      \\[-3ex]
+ t        &  2.99     \\[-2ex]
+          & -8.0      \\[-3ex]
+ v        &  2.36     \\[-2ex]
+          & -30.0     \\[-3ex]
+ w        &  1.101    \\[-2ex]
+          & -13.0     \\[-3ex]
+ y        &  1.416    \\[-2ex]
+          & -32.0     \\[-3ex]
+average   &  100.0    &  0.0      \\

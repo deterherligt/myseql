@@ -1,0 +1,19 @@
+%==========================================================================
+%=== New run time: 16:20:08.517761
+%=== Dataset: datasets/test.fa 
+%=== Randomseed: '8b4Dxf5IDkV9A7zSOawyeNJ5GR9npeXZbcYofSv355HmqAXvDAD12wsxCpuyb5la'
+%=== Limittrainingset: False
+%=== Limit: 5
+%=== number added per iteration: 5000
+%=== random selection: False
+%=== add as correct substrate: False
+%=== seql threshold: -1000.000000
+%=== Unknown: limit intial trainingset: True
+%=== Unknown: include known sequences in selftraingset: True
+%=== Unknown: Max iterations: 20
+%=== Standart deviation last iteration: 2.866264
+%=== Referencescore standart deviation: 2.373586
+%=== Referencescore: 91.104156
+ite  fold0  min0 max0  fold1  min1 max1  fold2  min2 max2  fold3  min3 max3  fold4  min4 max4   avgscor stddev avgsmin avgsmax added wrong unknowns correctpct
+0    84.59 0.65  1.6   83.97  0.7  1.5   87.11 0.67  1.5   87.45 0.68  1.7   92.08 0.65  1.7    87.04    3.204   0.669   1.59     2542   360     0    14.16
+1    82.71 0.65  1.6   84.35  0.7  1.5   85.94 0.67  1.5   87.85 0.68  1.7   90.0  0.65  1.7    86.17    2.866   0.669   1.59      0      0      0    100.0
